@@ -3,5 +3,7 @@
 ![sup](https://raw.githubusercontent.com/mattivboiii/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![sup](https://raw.githubusercontent.com/mattivboiii/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
+<!--START_SECTION:activity-->
+
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=gedcogafdxhkdjj3ao3ppclvg&hide_title=1" alt="Data Card for Spotify">
 
