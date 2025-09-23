@@ -15,6 +15,11 @@
 https://lifesimgame.vercel.app (BitLife inspired game)
 
 https://mattipoly.vercel.app (Monopoly inspired game)
+
+https://simple-blackjackgame.vercel.app (Blackjack game)
+
+https://matti-assets-api.vercel.app (Asset API)
+
 # 🎵 Music Taste:
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=gedcogafdxhkdjj3ao3ppclvg&hide_title=1" alt="Data Card for Spotify">
 
