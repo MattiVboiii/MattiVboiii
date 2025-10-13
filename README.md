@@ -12,11 +12,15 @@
 ![](https://github-readme-stats.vercel.app/api?username=MattiVboiii&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MattiVboiii&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 # 🌐 Public Sites (made by me):
-https://lifesimgame.vercel.app (BitLife inspired game)
+https://mattipoly.vercel.app ("Monopoly" inspired game)
 
-https://mattipoly.vercel.app (Monopoly inspired game)
+https://simple-blackjackgame.vercel.app ("Blackjack" game)
 
-https://simple-blackjackgame.vercel.app (Blackjack game)
+https://lifesimgame.vercel.app ("BitLife" inspired game)
+
+https://computergame.vercel.app ("Upload Labs" inspired game)
+
+---
 
 https://matti-assets-api.vercel.app (Asset API)
 
