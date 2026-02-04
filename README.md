@@ -20,6 +20,8 @@ https://lifesimgame.vercel.app ("BitLife" inspired game)
 
 https://computergame.vercel.app ("Upload Labs" inspired game)
 
+https://cardlikegame.vercel.app ("Poker" inspired game)
+
 ---
 
 https://matti-assets-api.vercel.app (Asset API)
