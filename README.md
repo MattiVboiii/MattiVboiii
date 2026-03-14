@@ -11,6 +11,8 @@
 # 📊 Statistics:
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MattiVboiii&langs_count=10&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=MattiVboiii&langs_count=10&theme=github_dark)[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MattiVboiii&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=MattiVboiii&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=github_dark)
 # 🌐 Public Sites (made by me):
+https://matti-portfolio.vercel.app (personal portfolio)
+
 https://mattipoly.vercel.app ("Monopoly" inspired game)
 
 https://simple-blackjackgame.vercel.app ("Blackjack" game)
@@ -19,11 +21,11 @@ https://lifesimgame.vercel.app ("BitLife" inspired game)
 
 https://computergame.vercel.app ("Upload Labs" inspired game)
 
-https://cardlikegame.vercel.app ("Poker" inspired game)
-
----
+https://cardlikegame.vercel.app ("Poker/Balatro" inspired game)
 
 https://matti-assets-api.vercel.app (Asset API)
+
+
 
 # 🎵 Music Taste:
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=gedcogafdxhkdjj3ao3ppclvg&hide_title=1" alt="Data Card for Spotify">
